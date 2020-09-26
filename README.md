@@ -1,2 +1,2 @@
-# Digital-House-Workshop
- Food delivery system
+# FoodGram
+Food Instagram
